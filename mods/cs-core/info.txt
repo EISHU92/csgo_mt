@@ -1,0 +1,1 @@
+init.lua=="A init file for the game <>"
